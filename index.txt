@@ -1,2 +1,2 @@
 email: hoang.thi.xuan@sun-asterisk.com
-phonenumber: 0962001594
+phone-number: 0962001594
